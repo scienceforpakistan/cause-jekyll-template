@@ -1,4 +1,4 @@
 ---
-name: Wooly McBaa
-image: /images/wooly.jpg
+name: Haseeb Ahmad
+image: /images/haseeb.jpg
 ---
